@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_img_backgroundimage.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_img_backgroundimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_icons_profile_pic.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_icons_profile_pic.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-hdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_icons_schedule.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_icons_schedule.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-hdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_icons_header_calendar_barber.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_icons_header_calendar_barber.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_icons_barber_no_preferencies.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_icons_barber_no_preferencies.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.palhetabareariaap.app-main-30:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable_rn_edit_text_material.xml.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\drawable\\rn_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_icons_hairdressingscissors.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_icons_hairdressingscissors.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_previous.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_previous.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxhdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxhdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_icons_calendar.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_icons_calendar.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_node_modules_reactnativecalendars_src_img_down.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\node_modules_reactnativecalendars_src_img_down.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-hdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-hdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxxhdpi_node_modules_reactnativecalendars_src_calendar_img_next.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxxhdpi\\node_modules_reactnativecalendars_src_calendar_img_next.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_icons_barber.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_icons_barber.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-hdpi_node_modules_reactnativecalendars_src_img_up.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-hdpi\\node_modules_reactnativecalendars_src_img_up.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-xxxhdpi\\node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\drawable-mdpi_src_assets_img_logo.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-react-24:\\drawable-mdpi\\src_assets_img_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Filipe\\.gradle\\daemon\\7.5.1\\com.palhetabareariaap.app-main-30:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.palhetabareariaap.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.palhetabareariaap.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    }
+]
